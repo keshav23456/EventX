@@ -16,7 +16,7 @@ const Home = () => {
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
-      opacity: 1,
+      opacity: 2,
       transition: {
         staggerChildren: 0.2
       }
